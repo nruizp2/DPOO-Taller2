@@ -1,0 +1,11 @@
+Cliente: a
+Dirección: a
+Comida:
+	corralita:13000
+	->combo corral:22050
+		-corral:14000
+		-papas medianas:5500
+		-gaseosa:5000
+Total Neto:35050
+IVA:6659
+TOTAL:41709
